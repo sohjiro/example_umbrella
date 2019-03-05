@@ -1,0 +1,11 @@
+# .deliver/config
+
+APP="example_umbrella"
+
+BUILD_HOST="192.168.60.7"
+BUILD_USER="vagrant"
+BUILD_AT="/home/vagrant/builds"
+
+STAGING_HOSTS="192.168.60.8"
+STAGING_USER="vagrant"
+DELIVER_TO="/home/vagrant/releases"
